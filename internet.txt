@@ -1,0 +1,11 @@
+SUMMMARY OF INTERNET AND ITS COMPONENTS
+
+The internet is a global network of interconnected computers and other devices that communicate using standardized protocols. It enables the exchange of data and information across the world.
+
+The internet's origins trace back to ARPANET, a project initiated by the U.S. Department of Defense in the late 1960s. It has since evolved through various technological advancements and the development of protocols like TCP/IP.
+
+The internet consists of hardware infrastructure (servers, routers, cables) and software protocols (TCP/IP, HTTP, DNS) that enable communication and data transfer.
+
+Access to the internet can be obtained through ISPs (Internet Service Providers) via various technologies such as dial-up, DSL, cable, fiber-optic, and wireless connections.
+
+The internet offers a wide range of services including email, web browsing, social media, online shopping, streaming media, online gaming, cloud computing, and more.
